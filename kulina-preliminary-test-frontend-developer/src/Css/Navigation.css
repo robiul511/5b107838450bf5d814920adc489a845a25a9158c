@@ -1,0 +1,10 @@
+.navigation {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 375px;
+  overflow: hidden;
+  z-index: 9999;
+}

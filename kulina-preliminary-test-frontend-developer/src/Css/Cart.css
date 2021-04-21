@@ -1,0 +1,12 @@
+.Cart {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(175, 55, 55);
+  border-radius: 5px;
+  margin: 10px 0 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 375px;
+  overflow: hidden;
+  z-index: 9999;
+}
